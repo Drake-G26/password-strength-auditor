@@ -2,7 +2,8 @@
 
 A Python command-line tool that audits password strength. It checks length and character variety (uppercase, lowercase, numbers, symbols), then scores the password 0-5 and gives a verdict: WEAK, DECENT, or STRONG.
 
-Built as a hands-on learning project while transitioning from physical security into cybersecurity.
+![Demo](Screenshot%202026-07-21%20at%2011.05.55.png)
+Built as a hands-on learning project while transitioning from physical security into cybersecurity. 
 
 ## How it works
 - Enter a password (or type 'quit' to exit)
